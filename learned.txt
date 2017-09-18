@@ -1,0 +1,1 @@
+1. when the kernel updated and vim is installed by manual, in this case, if want to use ycm, vim should compile again.
